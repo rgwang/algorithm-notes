@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1569676134 source:d:\python\algorithm-notes\a1055\solution\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+	<cstring>
+
